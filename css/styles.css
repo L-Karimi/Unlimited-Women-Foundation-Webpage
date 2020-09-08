@@ -3,6 +3,7 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
+    opacity: 1;
     
 }
     nav>ul>li{
@@ -48,9 +49,19 @@ margin-top: 150px;
     display: inline-block;
     list-style-type: none;
     margin-left: 150px;
+    padding-top: 20px;
 
 }
 
 li >a{
     color: black;
+}
+
+
+
+img{
+    width: 50px;
+    margin-left: 150px;
+    margin-top: -90px;
+    margin-bottom: 15px;
 }
